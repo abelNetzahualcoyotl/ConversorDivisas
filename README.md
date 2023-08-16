@@ -18,6 +18,8 @@ En caso que la cantidad sea correcta, al dar click en OK, se despliega el menú 
 
 Al hacer click en OK se muestra la cantidad convertida indicando la moneda final.
 
+![image](https://github.com/abelNetzahualcoyotl/ConversorDivisas/assets/133941975/2ce74070-1f57-4d73-b855-e05f15325219)
+
 
 Posteriormente  se abre una menú en el que se pregunta si se desea continuar,  si se selecciona que sí, se regresa a la pantalla inicial. Si se da click en No o cancelar, se muestra el mensaje: "Has seleccionado terminar el programa" y se finaliza.
 ![image](https://github.com/abelNetzahualcoyotl/ConversorDivisas/assets/133941975/1faa4291-0e9a-488d-bab1-f9711a50c6a4)
