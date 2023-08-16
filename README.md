@@ -4,7 +4,7 @@ Este programa forma parte de los retos de ORACLE-Alura.
 Se trata de un conversor de divisas.
 
 En el panel de inicio se muestra una pantalla 
-<p align="center"> <img ![image](https://github.com/abelNetzahualcoyotl/ConversorDivisas/assets/133941975/8a27dc83-2ca3-4ac0-b886-47dd2437c4ff) /> </p>
+<p align="center"> <img https://github.com/abelNetzahualcoyotl/ConversorDivisas/assets/133941975/8a27dc83-2ca3-4ac0-b886-47dd2437c4ff) /> </p>
 
 
 
