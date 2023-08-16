@@ -5,7 +5,8 @@ Se trata de un conversor de divisas.
 
 En el panel de inicio se muestra una pantalla 
 
-https://github.com/abelNetzahualcoyotl/ConversorDivisas/assets/133941975/8a27dc83-2ca3-4ac0-b886-47dd2437c4ff)
+![image](https://github.com/abelNetzahualcoyotl/ConversorDivisas/assets/133941975/a20e08e2-235f-48b5-a9c7-d93f0381543f)
+
 
 
 
@@ -22,6 +23,6 @@ Posteriormente  se abre una menú en el que se pregunta si se desea continuar,  
 ![image](https://github.com/abelNetzahualcoyotl/ConversorDivisas/assets/133941975/1faa4291-0e9a-488d-bab1-f9711a50c6a4)
 
 
-
+Programa escrito por Abel Netzahualcóyotl Martínez Obregón
 
 
